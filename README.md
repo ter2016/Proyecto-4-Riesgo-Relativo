@@ -4,20 +4,6 @@ y la evaluación del riesgo relativo que pueda clasificar a los solicitantes en 
 Esta clasificación permitirá al banco tomar decisiones informadas sobre a quién otorgar crédito, reduciendo así el riesgo de préstamos no reembolsables. 
 En este proyecto, Se busca obtener:
 
-  - Conexion de datos en Bigquery.
-  - Limpieza de datos. 
-  - Union de tablas, creacion de nuevas variables y generacion de tablas auxiliares.
-  - Analisis Exploratorio de datos en Power BI:
-    - Generacion de graficos basicos y avanzados.
-    - Medidas de tendencia central.
-    - Generacion de Histograma.
-    - ScatterPlots
-  - Calculo de cuartiles y correlaciones.
-  - Generacion de segmentacion por categorias.
-  - Calculo del Riesgo Relativo.
-  - Validacion de hipotesis.
-  - Creacion de dashboard en Power BI.
-  - Creacion de presentacion que resuma de manera efectiva los resultados del análisis de datos.
 
 
 ## Instrucciones de uso:
@@ -56,7 +42,5 @@ Se trabajo con una base de datos con 4 tablas :
 
 
 ## Archivos y Links de acceso
-  - Repositorio: PresentacionResultados.pptx  https://github.com/ter2016/Proyecto-3-Hipotesis/blob/main/Proyecto_Resultados.pptx
-  - Repositorio: PBI_Dashboard.pbix https://github.com/ter2016/Proyecto-3-Hipotesis/blob/main/PBI_Dashboard.pbix
-  - Repositorio: Queries_bigquery.docx  https://github.com/ter2016/Proyecto-3-Hipotesis/blob/main/Queries_bigquery.docx
+
 
