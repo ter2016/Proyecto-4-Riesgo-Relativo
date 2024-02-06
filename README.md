@@ -1,4 +1,4 @@
-# Analisis del Riesgo Relativo en el Banco "Super Caja". (trabajando / aun no listo)
+# Analisis del Riesgo Relativo en el Banco "Super Caja".
 Se realiza una exploracion de los datos del banco "Super Caja"con el objetivo de segmentar y evaluar la situación crediticia de sus clientes. El objetivo del análisis es armar un score crediticio a partir de un análisis de datos 
 y la evaluación del riesgo relativo que pueda clasificar a los solicitantes en diferentes categorías de riesgo basadas en su probabilidad de incumplimiento. 
 Esta clasificación permitirá al banco tomar decisiones informadas sobre a quién otorgar crédito, reduciendo así el riesgo de préstamos no reembolsables. 
@@ -43,7 +43,7 @@ Se trabajo con una base de datos con 4 tablas :
   - user_info. Informacion demografica de los usuarios.
   - loans_detail. Informacion de numeros de impago y porcentaje de deuda por cliente.
   - loans_outstanding. Informacion de la cantidad de creditos por cliente.
-  - 
+    
 ## Herramientas utilizadas.
   - BigQuery (SQL)
   - Microsoft Power Point.
@@ -62,7 +62,10 @@ Se trabajo con una base de datos con 4 tablas :
  
 ## Archivos y Links de acceso
 Externo: Dashboard Looker Studio  https://lookerstudio.google.com/u/0/reporting/6afd5b48-1a27-4e46-85f2-c0f7c21fa999/page/p_wh6db8qwdd
+
 Repositorio: Querys.docx.docx  https://github.com/ter2016/Proyecto-4-Riesgo-Relativo/blob/main/Querys.docx
+
 Repositorio: analisys_book.ipynb  https://github.com/ter2016/Proyecto-4-Riesgo-Relativo/blob/main/analisys_book.ipynb
+
 Repositorio: Presentacion_Resultados.pptx  https://github.com/ter2016/Proyecto-4-Riesgo-Relativo/blob/main/Presentacion_Resultados.pptx
 
